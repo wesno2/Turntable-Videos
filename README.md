@@ -2,6 +2,7 @@
 Auxiliary files created to support viewers of the turntable videos on YouTube if they wish to build their own turntable.
 
 Folders:
+
 Circuitry - Files referenced in the Circuitry video.
 
 Nextion - Files that are uploaded to the Nextion
@@ -12,4 +13,4 @@ Videos - All video files that were uploaded to the Nextion, along with their sou
 
 Program - The Arduino program and its support files.
 
-3D Diagrams - Sketchup files showing the finished unit.
+Models - Sketchup files showing the finished unit.
