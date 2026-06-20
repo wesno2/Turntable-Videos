@@ -11,6 +11,6 @@ Nextion - .hmi that is uploaded to the Nextion
 
 Pictures - All "picture" files that are uploaded to the Nextion, along with their source files.
 
-Program - The Arduino program and its support files.
+Program - The Arduino program
 
 Videos - All video files that were uploaded to the Nextion, along with their source files.
