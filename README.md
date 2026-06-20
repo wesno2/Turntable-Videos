@@ -5,12 +5,12 @@ Folders:
 
 Circuitry - Files referenced in the Circuitry video.
 
+Models - Sketchup files showing the finished unit.
+
 Nextion - .hmi that is uploaded to the Nextion
 
 Pictures - All "picture" files that are uploaded to the Nextion, along with their source files.
 
-Videos - All video files that were uploaded to the Nextion, along with their source files.
-
 Program - The Arduino program and its support files.
 
-Models - Sketchup files showing the finished unit.
+Videos - All video files that were uploaded to the Nextion, along with their source files.
