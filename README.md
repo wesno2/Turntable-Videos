@@ -7,7 +7,7 @@ Examples include:
 4) the image files that are uploaded to the Nextion and displayed on command
 
 Folder: Circuitry
-  Files referenced in the Circuitry video.
+Files referenced in the Circuitry video.
 Files:  
 Wiring Plan for a Prototype PCB.pdf
   1 page diagram showing how you would connect the external components to each other and to the Arduino using a prototype PCB
