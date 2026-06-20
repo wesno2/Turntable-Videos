@@ -5,7 +5,7 @@ Folders:
 
 Circuitry - Files referenced in the Circuitry video.
 
-Nextion - Files that are uploaded to the Nextion
+Nextion - .hmi that is uploaded to the Nextion
 
 Pictures - All "picture" files that are uploaded to the Nextion, along with their source files.
 
