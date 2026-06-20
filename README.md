@@ -3,7 +3,7 @@ Auxiliary files created to support viewers of the turntable videos on YouTube if
 
 Folder: Circuitry
 
-Files referenced in the Circuitry video.
+   Files referenced in the Circuitry video.
 
 Folder: Nextion Display
 Files that are uploaded to the Nextion
