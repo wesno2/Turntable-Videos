@@ -7,6 +7,7 @@ Examples include:
 4) the image files that are uploaded to the Nextion and displayed on command
 
 Folder: Circuitry
+
 Files referenced in the Circuitry video.
 Files:  
 Wiring Plan for a Prototype PCB.pdf
