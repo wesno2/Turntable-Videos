@@ -6,7 +6,7 @@ SKETCHUP MODELS (LOCATED ON 3DWAREHOUSE)
 *Shows only the main drive* https://3dwarehouse.sketchup.com/model/fb35f389-d4f9-406a-88d2-5892d145b887/Turntable-main-drive-only
 
 VIEWING SKETCHUP MODELS
-To view, in 3D, one of the models listed below:
+To view, in 3D, one of the models listed above:
 1)	click on the link to first see the model in static form
 2)	click the *3D Preview* button
 3)	hover over the image and when the *View in 3D* button appears, click it.
