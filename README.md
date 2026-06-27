@@ -13,4 +13,4 @@ Pictures - All "picture" files that are uploaded to the Nextion, along with thei
 
 Program - The Arduino program
 
-Videos - All video files that were uploaded to the Nextion, along with their source files.
+Videos - PowerDirector source files for the video files that were uploaded to the Nextion.  The videos themselves are too large to upload.
